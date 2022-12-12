@@ -25,7 +25,6 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=masraful)  
 
-![GitHub metrics](https://metrics.lecoq.io/masraful)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=masraful)  
 
