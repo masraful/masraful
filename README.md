@@ -2,7 +2,7 @@
 <h3 align="center">I am a MERN Stack Developer.</h3>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align="right" alt="coding" width="400" src="[https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif](https://storyset.com/illustration/lo-fi-concept/cuate)">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
